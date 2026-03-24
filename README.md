@@ -18,7 +18,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/Giovannirovesta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/rafael-dev24?tab=followers">
+    <a href="https://github.com/Giovannirovesta?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
