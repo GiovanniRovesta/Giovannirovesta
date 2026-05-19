@@ -1,93 +1,15 @@
-## Olá, eu sou Giovanni Rovesta, nasci em 2011, estou cursando infonet na etecvav! 👋
+# 💫 About Me:
+🔭 Estou trabalhando com: nada no momento<br>👯 Busco colaborar com meu conhecimento sobre informática<br>🤝 Procuro ajudar meus pais em casa<br>🌱 Estou aprendo a programar na EtecVAV<br>💬 Me pergunte sobre jogos em geral<br>⚡ Adoro jogar volei e jogar Rocket League
 
 
-- 🔭 Estou trabalhando atualmente com: nada
-- 🌱 estou aprendendo informatica para internet na etecvav
-- 🤔 tiro minhas dúvidas com meus professores
-- 💬 Me pergunte sobre: Rocket league!
-- 😄 Pronomes: ele/dele
-- ⚡ curiosidades: sou champion no rocket league
-
-
-
-  
-  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GiovanniRovesta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Giovannirovesta?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GiovanniRovesta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GiovanniRovesta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=GiovanniRovesta&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GiovanniRovesta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=GiovanniRovesta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left"
-    alt="portugol"
-    title="portugol"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://univali-lite.github.io/Portugol-Studio/assets/img/tree_icon.svg"
-  />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovanniRovesta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniRovesta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<div align = center>
-  <img src="https://raw.githubusercontent.com/GiovanniRovesta/GiovanniRovesta/output/snake.svg" alt="Snake animation" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
