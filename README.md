@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GiovanniRovesta&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Certificados
-[!](https://skills.yourlearning.ibm.com/certificate/share/2ffd609c06ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDg1OTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9a24138b2a4-10)
+![](https://skills.yourlearning.ibm.com/certificate/share/2ffd609c06ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDg1OTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9a24138b2a4-10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
