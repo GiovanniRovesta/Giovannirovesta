@@ -10,7 +10,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GiovanniRovesta&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Certificados
-<img width="1322" height="791" alt="image" src="https://github.com/user-attachments/assets/e0de6206-d4df-4782-9f99-d88a29e8af3e" />
+[Certificado de conclusão _ SkillsBuild.pdf](https://github.com/user-attachments/files/29467811/Certificado.de.conclusao._.SkillsBuild.pdf)
+
 
 
 ### ✍️ Random Dev Quote
