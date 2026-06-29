@@ -16,7 +16,7 @@
 
 [Certificado de conclusão](https://github.com/user-attachments/files/29467811/Certificado.de.conclusao._.SkillsBuild.pdf) 
 
-[Certificado de conclusão](https://github.com/user-attachments/files/29468400/Certificado.de.conclusao_PTIC.pdf)
+<p aling="right">[Certificado de conclusão](https://github.com/user-attachments/files/29468400/Certificado.de.conclusao_PTIC.pdf)</p>
 
 
 
