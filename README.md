@@ -13,6 +13,7 @@
 <img width="450" height="300" alt="IW" src="https://github.com/user-attachments/assets/3b941e2a-dc75-41f2-9d83-269a5ba2fb56" /> 
 <img width="450" height="300" alt="image" align="right" src="https://github.com/user-attachments/assets/ea6536d5-c8d7-42ba-ad67-125383a10133" />
 <br/>
+
 [Certificado de conclusão](https://github.com/user-attachments/files/29467811/Certificado.de.conclusao._.SkillsBuild.pdf) 
 
 [Certificado de conclusão](https://github.com/user-attachments/files/29468400/Certificado.de.conclusao_PTIC.pdf)
